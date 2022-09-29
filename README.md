@@ -6,11 +6,16 @@ a una forma virtual, mucho más fácil de usar y que calcula el ganador directam
 que el método tradicional del papel.
 
 Servicios:
+
   Servicio Login: Usaremos un servicio que nos permita guardar la información de los usuarios en la nube.
+  
   API Banderas: Usaremos esta API para mostrar las banderas de los países participantes y sus 
   enfrentamientos.
+  
   API Partidos: Usaremos una API que nos de los resultados de los partidos del mundial y diversa información.
   
 Librerías:
+
   Retrofit: Usaremos esta librería para poder realizar llamadas con las API's
+  
   
