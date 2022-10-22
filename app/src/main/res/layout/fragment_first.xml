@@ -33,4 +33,20 @@
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Crear quiniela"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="473dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unirme quiniela"
+        tools:layout_editor_absoluteX="382dp"
+        tools:layout_editor_absoluteY="473dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

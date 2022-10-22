@@ -22,6 +22,22 @@
         android:text="@string/previous"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textview_second" />
+
+    <WebView
+        android:layout_width="409dp"
+        android:layout_height="460dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noticias"
+        tools:layout_editor_absoluteX="190dp"
+        tools:layout_editor_absoluteY="696dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
